@@ -1,9 +1,9 @@
-This repo needs a readme!
 
 * Run the script!
-* When asking continue
+* When asking to continue
 * Add the person to the repo as a collaborator
 * Press enter in the script
+* Check your commit log
 
 
-Stop this......
+
